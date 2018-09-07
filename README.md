@@ -32,7 +32,7 @@ A shared, internal library of web-based components for both online and interacti
 
 - [ ] Add systems/github-automation
 
-- [ ] Add wordpress/custom-posttype-plugin
+- [x] Add wordpress/custom-posttype-plugin
 - [ ] Add wordpress/custom-taxonomy-plugin
 - [ ] Add wordpress/custom-theme
 - [ ] Add drupal/custom-theme
