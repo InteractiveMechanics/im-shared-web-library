@@ -1,12 +1,16 @@
 # JavaScript: Utilities - Needle in a Haystack
-A basic script with a simple needle in a haystack functions.
+A basic script that determines whether an array contains a value.
+source: https://stackoverflow.com/questions/1181575/determine-whether-an-array-contains-a-value
 
 ### DEPENDENCIES
 None.
 
 ### HOW TO USE
-N/A.
+Please note that ES2016 includes the include method which provides the same functionality of this code in one line:
+
+["Sam", "Great", "Sample", "High"].includes("Sam"); // true
+
 
 ### TODO
-[ ] Update this README.md
-[ ] Add files to this component
+[x] Update this README.md
+[x] Add files to this component
